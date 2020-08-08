@@ -1,0 +1,16 @@
+{
+  "name": "slick-api",
+  "version": "1.0.0",
+  "description": "An API that's so slick you don't even know it exists.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon ."
+  },
+  "author": "Alto",
+  "license": "ISC",
+  "dependencies": {
+    "@hapi/joi": "^17.1.1",
+    "express": "^4.17.1"
+  }
+}
